@@ -189,7 +189,6 @@ img {
 
 .page-hero {
   max-width: 1440px;
-  height: 600px;
   padding-top: 188px;
   padding-bottom: 188px;
   margin-left: auto;
@@ -320,7 +319,7 @@ img {
   fill: var(--wite-color);
 }
 
-/* CUSTOMERS ============================== */
+/*  ==========================CUSTOMERS ============================== */
 
 .customers {
   padding-top: 130px;
@@ -353,9 +352,10 @@ img {
   border-color: #404bbf;
 }
 
-/*  FOOTER ================================================= */
+/* ================================ FOOTER ================================================= */
 
 .footer {
+  max-width: 1140;
   background-color: var(--title-color);
   padding-top: 100px;
   padding-bottom: 100px;

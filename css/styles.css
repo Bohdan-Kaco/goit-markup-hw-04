@@ -239,6 +239,7 @@ img {
   height: 112px;
   background-color: #f4f4fd;
   border-radius: 4px;
+  margin-bottom: 8px;
 }
 .features {
   padding-top: 120px;
@@ -322,7 +323,7 @@ img {
 /*  ==========================CUSTOMERS ============================== */
 
 .customers {
-  padding-top: 130px;
+  padding-top: 120px;
   padding-bottom: 120px;
 }
 .customers-list {
@@ -409,6 +410,7 @@ img {
   padding-top: 96px;
   padding-bottom: 120px;
 }
+/* ===================Filter==================== */
 .filter-item:not(:last-child) {
   margin-right: 24px;
 }
@@ -436,6 +438,7 @@ img {
   justify-content: center;
   margin-bottom: 72px;
 }
+/* ======================Projects============== */
 .project-list {
   display: flex;
   flex-wrap: wrap;
